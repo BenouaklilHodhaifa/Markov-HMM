@@ -1,10 +1,10 @@
 # Markov-HMM
 
-In this repo, you'll find some practical examples on how using HMM's (hidden markov model). There is three main notebooks:
+In this repo, you'll find some practical examples on how to use HMM's (hidden markov model). There are three main notebooks:
 
 ## 1. markov.ipynb:
 
-This is an implementation of markov chains. We created a markov chain based on Sherlock Holmes stories where at the end we where able to generate text with the same original style. This is an example of the results:
+This is an implementation of markov chains. We created a markov chain based on Sherlock Holmes stories where at the end we were able to generate text with the same original style. This is an example of the results:
 
 ```
 0.  my dear holmes i went to bed and the note with which the crime was committed so as
