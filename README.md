@@ -19,6 +19,6 @@ This is an implementation of markov chains. We created a markov chain based on S
 
 A practical example of predicting a teacher's mood, the goal is to leverage HMMs to forecast the teacher's emotional state based on the observed t-shirt colors worn on consecutive days without the training step (we know all the transitions and emissions values).
 
-## 3. HMM_with_training:
+## 3. HMM_with_training.ipynb:
 
 The same practical example as above but this time with training step.
